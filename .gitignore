@@ -1,0 +1,13 @@
+/public/hot
+/public/storage
+/public/.htaccess
+/public/vendor
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+.env
+_ide_helper.log
+phpunit.report.xml
+phpunit.coverage.xml
+.phpunit.result.cache
